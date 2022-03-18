@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\Abstract class.csproj": {}
+    "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\Abstract class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\Abstract class.csproj": {
+    "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\Abstract class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\Abstract class.csproj",
+        "projectUniqueName": "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\Abstract class.csproj",
         "projectName": "Abstract class",
-        "projectPath": "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\Abstract class.csproj",
-        "packagesPath": "C:\\Users\\AysuMemmedova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\obj\\",
+        "projectPath": "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\Abstract class.csproj",
+        "packagesPath": "C:\\Users\\tu7tw2d21\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AysuMemmedova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu7tw2d21\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

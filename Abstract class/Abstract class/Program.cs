@@ -31,7 +31,7 @@ namespace Abstract_class
                         }
                         else if (Square.side<=0)
                         {
-                            Console.WriteLine("-1");
+                            Console.WriteLine("False information");
                             Console.WriteLine("********************************************");
                         }
 
@@ -45,7 +45,7 @@ namespace Abstract_class
                         }
                         else if (Rectangular.width <= 0 || Rectangular.length <= 0)
                         {
-                            Console.WriteLine("-1");
+                            Console.WriteLine("False information");
                             Console.WriteLine("********************************************");
                         }
                         break;

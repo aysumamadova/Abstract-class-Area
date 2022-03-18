@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mjKJWU6fRxAzHJBieKaINvSrRPNecwjkn69ej1HYYnCY7ap+dzLFfTi1pliuTIGswS7PEAGM530+v43DbsgcUQ==",
+  "dgSpecHash": "lcJs5a7J+jr4plhEp0v5HqL0xDFdrrXsJQ3M/bj6eyDkZhE6Fj63AHm8YROwRWHuVdMmNfZqm2ZToaZjWo/T+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AysuMemmedova\\source\\repos\\Abstract class\\Abstract class\\Abstract class.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tu7tw2d21\\Desktop\\Abstract-class-Area\\Abstract class\\Abstract class\\Abstract class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7tw2d21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
